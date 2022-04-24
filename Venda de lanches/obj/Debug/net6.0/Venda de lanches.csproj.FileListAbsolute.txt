@@ -1,0 +1,52 @@
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\bin\Debug\net6.0\appsettings.json
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.staticwebassets.runtime.json
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.exe
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.deps.json
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.runtimeconfig.json
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.dll
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.pdb
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.csproj.AssemblyReference.cache
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.AssemblyInfoInputs.cache
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.AssemblyInfo.cs
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.csproj.CoreCompileInputs.cache
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.RazorAssemblyInfo.cache
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.RazorAssemblyInfo.cs
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\scopedcss\bundle\Venda de lanches.styles.css
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\scopedcss\projectbundle\Venda de lanches.bundle.scp.css
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.dll
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\refint\Venda de lanches.dll
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.pdb
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.genruntimeconfig.cache
+C:\Users\Família Vepo\source\repos\Venda de lanches\Venda de lanches\obj\Debug\net6.0\ref\Venda de lanches.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\appsettings.Development.json
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\appsettings.json
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.staticwebassets.runtime.json
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.exe
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.deps.json
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.runtimeconfig.json
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Venda de lanches.pdb
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.csproj.AssemblyReference.cache
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.GeneratedMSBuildEditorConfig.editorconfig
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.AssemblyInfoInputs.cache
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.AssemblyInfo.cs
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.csproj.CoreCompileInputs.cache
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.MvcApplicationPartsAssemblyInfo.cache
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.RazorAssemblyInfo.cache
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.RazorAssemblyInfo.cs
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\staticwebassets.build.json
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\staticwebassets.development.json
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\scopedcss\bundle\Venda de lanches.styles.css
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\scopedcss\projectbundle\Venda de lanches.bundle.scp.css
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\refint\Venda de lanches.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.pdb
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.genruntimeconfig.cache
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\ref\Venda de lanches.dll
