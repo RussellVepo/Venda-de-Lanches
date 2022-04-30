@@ -50,3 +50,38 @@ A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\refint\Venda de l
 A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.pdb
 A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.genruntimeconfig.cache
 A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\ref\Venda de lanches.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Humanizer.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\System.Drawing.Common.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\System.Runtime.Caching.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\System.Security.Permissions.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\System.Windows.Extensions.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+A:\PROJETOS\Venda-de-Lanches\Venda de lanches\obj\Debug\net6.0\Venda de lanches.csproj.CopyComplete
