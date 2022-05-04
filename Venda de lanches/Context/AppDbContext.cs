@@ -10,7 +10,7 @@ namespace Venda_de_lanches.Context
 
         }
         public DbSet<Categoria> Categorias { get; set; }
-        public DbSet<Lanche>lanches  { get; set; }
+        public DbSet<Lanche>Lanches  { get; set; }
     }
 }   
 
