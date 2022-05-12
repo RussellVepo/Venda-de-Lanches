@@ -7,20 +7,19 @@ namespace Venda_de_lanches.Repositories
 {
     public class LancheRepository : ILancheRepository
     {
-        private AppDbContext _context;
+        private readonly AppDbContext _context;
 
-        private readonly AppDbContext_context;
         public LancheRepository(AppDbContext contexto)
         {
-            _context = contexto
+            _context = contexto;
         }
         public IEnumerable<Lanche> Lanches => _context.Lanches.Include(c => c.Categoria);
 
-        public IEnumerable<Lanche> LanchesPreferidos => throw new NotImplementedException();
+        public IEnumerable<Lanche> LanchesPreferidos => _context.Lanches.Where(l => l.IsLanchePreferido).Include(c => c.Categoria);
 
         public Lanche GetLancheById(int lancheId)
         {
-            throw new NotImplementedException();
+            return _context.Lanches.FirstOrDefault(l => l.LancheId == lancheId);
         }
     }
 }
